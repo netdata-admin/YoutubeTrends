@@ -1,0 +1,76 @@
+﻿body {
+    font-family: 'Segoe UI',Arial;
+    line-height: 12px;
+}
+
+.banner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #3E77A9;
+    line-height: 73px;
+    color: #fff;
+    padding-top: 1px;
+}
+
+.body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ulkeKod {
+    font-size: 8px;
+    text-decoration: none;
+}
+
+table {
+    float: left;
+}
+
+.bayraklar {
+    width: 11px;
+    height: 11px;
+}
+
+.videoLink {
+    text-decoration: none;
+    font-size: 8px;
+    color: #000;
+}
+
+table:hover {
+    background-color: #C8D5E0;
+}
+
+.btn.btn-link.hidden-xs {
+    height: 32px;
+    width: 32px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+    .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+        background-color: #3A75D7;
+    }
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: #3A75D7;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.btn-link {
+    padding: 16px;
+}
+
+.li > a {
+    cursor: pointer;
+}
